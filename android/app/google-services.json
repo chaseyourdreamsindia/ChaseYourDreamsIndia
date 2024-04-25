@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126078101435",
+    "project_id": "chaseyourdreamsindia-df28e",
+    "storage_bucket": "chaseyourdreamsindia-df28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126078101435:android:8fee64aacbf3e582f3869e",
+        "android_client_info": {
+          "package_name": "com.chaseyourdreamsindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqj8F5Ixkb0Ct_NWnVplFju8HYUkiyK0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
